@@ -3,7 +3,7 @@ dist: trusty
 before_install:
 - sudo add-apt-repository -y ppa:jonathonf/texlive-2016
 - sudo apt-get update
-- sudo apt-get install -y --no-install-recommends texlive texlive-lang-german texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-xetex texlive-base
+- sudo apt-get install -y --no-install-recommends texlive texlive-lang-german texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-xetex texlive-base lmodern
 script:
 - mkdir _build
 - xelatex -interaction=nonstopmode -halt-on-error -output-directory _build statuten.tex
