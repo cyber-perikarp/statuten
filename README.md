@@ -3,9 +3,7 @@
 
 
 ## Font
--------------------------------
 UBUNTU FONT LICENCE Version 1.0
--------------------------------
 
 PREAMBLE
 This licence allows the licensed fonts to be used, studied, modified and
