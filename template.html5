@@ -11,10 +11,10 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <style>
       body {
-        margin: auto;
+        /*margin: auto;
         padding-right: 1em;
         padding-left: 1em;
-        max-width: 44em;
+        max-width: 44em;*/
         color: black;
         font-family: 'Open Sans', sans-serif;
       }
