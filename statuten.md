@@ -59,13 +59,13 @@ Der Zugang zu und Austausch durch Medien ist integraler Bestandteil einer demokr
   1. Ordentliche Mitglieder, das sind jene, die aktiv an der Erreichung des Vereinszweckes mitarbeiten und das Vereinsleben mitgestalten,
   2. Gründungsmitglieder, das sind all jene, die an der Gründungsversammlung am 24.09.2016 teilgenommen haben,
   3. Ehrenmitglieder, das sind jene, die auf Grund besonderer Verdienste für den Verein von der Generalversammlung dazu ernannt wurden,
-  4. Unterstützende Mitglieder, das sind jede, die durch ihren Mitgliedsbeitrag den idellen Zweck des Vereins unterstützen.
+  4. Unterstützende Mitglieder, das sind jede, die durch ihren Mitgliedsbeitrag den ideellen Zweck des Vereins unterstützen.
 
 ## Aufnahme von Mitgliedern
   1. Mitglieder des Vereins können alle physischen und juristischen Personen, Personengesellschaften sowie Personengruppen werden, die die Statuten anerkennen und den Vereinszweck fördern wollen.
   2. Personengruppen sind zum Beispiel Interessensgemeinschaften, KünstlerInnenkollektive und ähnliche Gruppen ohne eigene Rechtspersönlichkeit. Für Personengruppen und Personengesellschaften gelten analog die Bestimmungen wie für juristische Personen.
   3. Die ordentliche oder unterstützende Mitgliedschaft ist mit einem schriftlichen Beitrittsansuchen an den Vorstand zu beantragen.
-  4. Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und unterstützenden Mitgliedern durch die die Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen. Diese Mitgliedschaft wird erst mit Entstehung des Vereins wirksam. Wird ein Vorstand erst nach Entstehung des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und ausserordentlicher Mitglieder bis dahin durch die Gründer des Vereins.
+  4. Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und unterstützenden Mitgliedern durch die Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen. Diese Mitgliedschaft wird erst mit Entstehung des Vereins wirksam. Wird ein Vorstand erst nach Entstehung des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und ausserordentlicher Mitglieder bis dahin durch die Gründer des Vereins.
   5. Juristische Personen haben schriftlich einen Vertreter zu bestimmen, der deren Interessen im Verein wahrnimmt. Jede juristische Person kann nur einen Vertreter bestimmen. Die Bestimmung eines Vertreters gilt ein Jahr oder bis auf Widerruf. Das Präsidium kann ohne Begründung die Bestimmung eines Vertreters ablehnen und die juristische Person auffordern, einen anderen Vertreter zu bestimmen. Solche Vertreter geniessen das aktive und passive Wahlrecht an Stelle der von ihnen vertretenen juristischen Person, sofern diese ein ordentliches Mitglied oder Gründungsmitglied ist.
   6. Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
   7. Der Verein erhebt eine Beitragsgebühr, deren Höhe von der Generalversammlung festgelegt wird.
