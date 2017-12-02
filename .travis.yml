@@ -1,10 +1,10 @@
 sudo: required
 dist: trusty
 before_install:
-  - sudo apt-get install pandoc
+  - sudo apt-get install pandoc wkhtml2pdf
 script:
-  - mkdir _build
-  - 
+  - pandoc --standalone -t html5 --template template.html5 statuten.md -o statuten.html
+  -
 
 deploy:
   provider: pages
