@@ -41,17 +41,31 @@ Der Zugang zu und Austausch durch Medien ist integraler Bestandteil einer demokr
   Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technischen Infrastruktur (Mailinglisten, Webserver, etc.) zur Kommunikation zwischen den Vereinsmitgliedern untereinander, mit anderen (internationalen) Vereinigungen mit ähnlichen Zielsetzungen und der allgemeinen Öffentlichkeit.
 
 ## Mittel zur Erreichung des Vereinszweckes
-  Die erforderlichen finanziellen Mittel sollen aufgebracht werden durch
-
-  1. Beitrittsgebühren,
-  2. Mitgliedsbeiträge,
-  3. Subventionen und Förderungen,
-  4. Erlöse aus Veranstaltungen,
-  5. Vermögensverwaltung (z.B. Zinsen, sonstige Kapitaleinkünfte, Einnahmen aus Vermietung und Verpachtung usw.),
-  6. Spenden, Sammlungen, Vermächtnisse und sonstige Zuwendungen,
-  7. Sponsoring,
-  8. Werbeeinnahmen,
-  9. sonstige Zuwendungen und andere legale Einnahmen im Rahmen der Möglichkeiten.
+  1. Der Vereinszweck soll durch die in den Abs. 2 und 3 angeführten Tätigkeiten und finanziellen Mittel erreicht werden.
+  2. Für die Verwirklichung des Vereinszweckes vorgesehene Tätigkeiten sind:
+    1. Öffentlichkeitsarbeit in Form der Herausgabe von regelmäßigen Informationen in analoger und digitaler Form inklusive Internetauftritt,
+    2. Ein elektronisches Netzwerk zu errichten und zu betreiben,
+    3. Forschung, Entwicklung und Umsetzung neuer Technologien,
+    4. Anbieten von Diensten und Dienstleistungen in elektronischen Netzwerken und Förderung dieser,
+    5. Veranstaltungen durchzuführen,
+    6. Informationsaustausch mit den in der Datenschutzgesetzgebung vorgesehenen Kontrollorganen,
+    7. Arbeits- und Erfahrungsaustauschkreise,
+    8. Hilfestellung und Beratung bei technischen und rechtlichen Fragen im Rahmen der gesetzlichen Möglichkeiten,
+    9. Bewerbung von und Informationen über elektronische Netzwerke,
+    10. Errichtung und Erhaltung von Klubräumen, Laboratorien und Büchereien sowie Herausgabe von Informationsmaterial,
+    11. Herausgabe von Pressemitteilungen und Öffentlichkeitsarbeit,
+    12. Die Herstellung von Verbindungen und Informationsaustausch mit gleichgesinnten Organisationen im In- und Ausland.
+    13. Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technischen Infrastruktur (Mailinglisten, Webserver, etc.) zur Kommunikation zwischen den Vereinsmitgliedern untereinander, mit anderen (internationalen) Vereinigungen mit ähnlichen Zielsetzungen und der allgemeinen Öffentlichkeit.
+  3. Die erforderlichen finanziellen Mittel sollen aufgebracht werden durch:
+    1. Beitrittsgebühren,
+    2. Mitgliedsbeiträge,
+    3. Subventionen und Förderungen,
+    4. Erlöse aus Veranstaltungen,
+    5. Vermögensverwaltung (z.B. Zinsen, sonstige Kapitaleinkünfte, Einnahmen aus Vermietung und Verpachtung usw.),
+    6. Spenden, Sammlungen, Vermächtnisse und sonstige Zuwendungen,
+    7. Sponsoring,
+    8. Werbeeinnahmen,
+    9. sonstige Zuwendungen und andere legale Einnahmen im Rahmen der Möglichkeiten.
 
 ## Arten der Mitgliedschaft
   Die Mitglieder des Vereins gliedern sich in:
