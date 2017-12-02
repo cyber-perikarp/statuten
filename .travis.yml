@@ -4,12 +4,14 @@ before_install:
   - sudo apt-get -y install pandoc libssl-dev
   - wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz -O /tmp/wkhtmltopdf.tar.xz
   - tar vxf /tmp/wkhtmltopdf.tar.xz -C /tmp
+  - mkdir /tmp/build
 script:
-  - pandoc --standalone -t html5 --template template.html5 statuten.md -o statuten.html
-  - /tmp/wkhtmltox/bin/wkhtmltopdf --enable-javascript --page-size A4 statuten.html statuten.pdf
+  - pandoc --standalone -t html5 --template template.html5 statuten.md -o /tmp/build/statuten.html
+  - /tmp/wkhtmltox/bin/wkhtmltopdf --enable-javascript --page-size A4 /tmp/build/statuten.html /tmp/build/statuten.pdf
 
 deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  target_branch: release
+  target_branch: gh-pages
+  local_dir: /tmp/build
