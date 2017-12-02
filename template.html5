@@ -10,7 +10,6 @@
     <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <style>
-
       body {
         margin: auto;
         padding-right: 1em;
@@ -31,27 +30,25 @@
         color: #17277f;
       }
     </style>
-
-    <script>
-      var list= document.getElementsByTagName("h2");
-      for (var i = 0; i < list.length; i++) {
-          var heading = "§ " + (i + 1) + ": " + list[i].innerHTML;
-          list[i].innerHTML = heading;
-      }
-    </script>
-
     $for(header-includes)$ $header-includes$ $endfor$
   </head>
 
   <body>
     $for(include-before)$ $include-before$ $endfor$ $if(title)$
     <header>
-      <h1 class="title">$title$</h1>
-      $if(subtitle)$
+      <h1 class="title">$title$</h1> $if(subtitle)$
       <p class="subtitle">$subtitle$</p>
       $endif$
     </header>
     $endif$ $body$ $for(include-after)$ $include-after$ $endfor$
   </body>
 
-  </html>
+  <script>
+    var list = document.getElementsByTagName("h2");
+    for (var i = 0; i < list.length; i++) {
+      var heading = "§ " + (i + 1) + ": " + list[i].innerHTML;
+      list[i].innerHTML = heading;
+    }
+  </script>
+
+</html>

@@ -1,7 +1,7 @@
 sudo: required
 dist: trusty
 before_install:
-  - sudo apt-get install pandoc wkhtml2pdf
+  - sudo apt-get install pandoc wkhtmltopdf
 script:
   - pandoc --standalone -t html5 --template template.html5 statuten.md -o statuten.html
   -
