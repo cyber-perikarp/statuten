@@ -8,8 +8,8 @@ script:
   - pandoc --standalone -t html5 --template template.html5 statuten.md -o statuten.html
   - /tmp/wkhtmltox/bin/wkhtmltopdf --enable-javascript --page-size A4 statuten.html statuten.pdf
 
-# deploy:
-#   provider: pages
-#   skip_cleanup: true
-#   github_token: $GITHUB_TOKEN
-#   target_branch: release
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  target_branch: release
