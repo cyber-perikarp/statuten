@@ -135,6 +135,7 @@ Der Zugang zu und Austausch durch Medien ist integraler Bestandteil einer demokr
 
 ## Aufgaben des Vorstands
 Dem Vorstand obliegt die Leitung des Vereins. Er ist das "Leitungsorgan" im Sinne des Vereinsgesetzes 2002. Ihm kommen alle Aufgaben zu, die nicht durch die Statuten einem anderen Vereinsorgan zugewiesen sind. In seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
+
   1. Einrichtung eines den Anforderungen des Vereins entsprechenden Rechnungswesens mit laufender Aufzeichnung der Einnahmen/Ausgaben und Führung eines Vermögensverzeichnisses als Mindesterfordernis,
   2. Erstellung des Jahresvoranschlags, des Rechenschaftsberichts und des Rechnungsabschlusses,
   3. Vorbereitung und Einberufung der Generalversammlung in den Fällen des § 10 Abs. 1 und Abs. 2 lit. c dieser Statuten
@@ -176,7 +177,7 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das "Leitungsorgan" im Sinn
     1. das Inkrafttreten eines Gesetzes in der Republik Österreich welches den Zugriff auf das Internet verbietet,
     2. das Inkrafttreten eines Gesetzes in der Republik Österreich welches den Einsatz von Verschlüsselungen und/oder Kryptografie verbietet.
 
-    Der letzte Vereinsvorstand hat die Auflösung binnen vier Wochen nach Eintritt bei der zuständigen Vereinsbehörde schriftlich anzuzeigen.
+  Der letzte Vereinsvorstand hat die Auflösung binnen vier Wochen nach Eintritt bei der zuständigen Vereinsbehörde schriftlich anzuzeigen.
 
 ## Verwendung des Vereinsvermögens bei Auflösung des Vereins
   Bei Auflösung des Vereins oder bei Wegfall des bisherigen begünstigten Vereinszwecks ist das nach Abdeckung der Passiva verbleibende Vereinsvermögen, für gemeinnützige oder mildtätige Zwecke im Sinne der §§ 34 ff Bundesabgabenordnung (BAO) zu verwenden. Soweit möglich und erlaubt, soll es dabei Institutionen zufallen, die gleiche oder ähnliche Zwecke wie dieser Verein verfolgen.
