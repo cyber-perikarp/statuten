@@ -21,24 +21,12 @@ Der Zugang zu und Austausch durch Medien ist integraler Bestandteil einer demokr
 ## Vereinszweck
   Die Tätigkeit des Vereins ist nicht auf Gewinn ausgerichtet, er verfolgt ausschliesslich gemeinnützige  Ziele. Die aus seiner Tätigkeit entstehenden Erträgnisse und Überschüsse dürfen nur für satzungsgemässe Zwecke verwendet werden. Ziele des Vereins sind insbesondere:
 
-  1. Öffentlichkeitsarbeit in Form der Herausgabe von regelmässigen Informationen in analoger und digitaler Form inklusive
-  Internetauftritt,
-  2. Kunst und Kultur in elektronischen Netzwerken zu fördern,
-  3. Ein elektronisches Netzwerk zu errichten und zu betreiben,
-  4. Forschung, Entwicklung und Umsetzung neuer Technologien,
-  5. Anbieten von Diensten und Dienstleistungen in elektronischen Netzwerken und Förderung dieser,
-  6. Veranstaltungen durchzuführen,
-  7. Informationsaustausch mit den in der Datenschutzgesetzgebung vorgesehenen Kontrollorganen,
-  8. Arbeits- und Erfahrungsaustauschkreise,
-  9. Hilfestellung und Beratung bei technischen und rechtlichen Fragen im Rahmen der gesetzlichen Möglichkeiten,
-  10. Bewerbung von und Informationen über elektronische Netzwerke,
-  11. Errichtung und Erhaltung von Klubräumen, Laboratorien und Büchereien sowie Herausgabe von Informationsmaterial,
-  12. Förderung der Privatsphäre von Anwendern in elektronischen Netzwerken und Information der Anwender über Möglichkeiten, diese zu erreichen,
-  13. Herausgabe von Pressemitteilungen und Öffentlichkeitsarbeit,
-  14. Die Herstellung von Verbindungen und Informationsaustausch mit gleichgesinnten Vereinen im In- und Ausland.
-  15. Der Verein fördert und unterstützt Vorhaben der Bildung und Volksbildung, die sich dem Vereinszweck widmen, insbesondere der anonymen, sicheren und verschlüsselten elektronischen Kommunikation.
-
-  Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technischen Infrastruktur (Mailinglisten, Webserver, etc.) zur Kommunikation zwischen den Vereinsmitgliedern untereinander, mit anderen (internationalen) Vereinigungen mit ähnlichen Zielsetzungen und der allgemeinen Öffentlichkeit.
+  1. Kunst und Kultur in elektronischen Netzwerken zu fördern,
+  2. Forschung, Entwicklung und Umsetzung neuer Technologien,
+  3. Anbieten von Diensten und Dienstleistungen in elektronischen Netzwerken und Förderung dieser,
+  4. Veranstaltungen durchzuführen,
+  5. Förderung der Privatsphäre von Anwendern in elektronischen Netzwerken und Information der Anwender über Möglichkeiten, diese zu erreichen,
+  6. Der Verein fördert und unterstützt Vorhaben der Bildung und Volksbildung, die sich dem Vereinszweck widmen, insbesondere der anonymen, sicheren und verschlüsselten elektronischen Kommunikation.
 
 ## Mittel zur Erreichung des Vereinszweckes
   1. Der Vereinszweck soll durch die in den Abs. 2 und 3 angeführten Tätigkeiten und finanziellen Mittel erreicht werden.
