@@ -13,7 +13,7 @@ Der Zugang zu und Austausch durch Medien ist integraler Bestandteil einer demokr
 
 ## Name und Sitz
   1. Der Verein führt den Namen "Cyber Perikarp – Verein zur Förderung der Netzkultur", abgekürzt "Cyber Perikarp".
-  2. Der Verein hat seinen Sitz in Krieglach und erstreckt seine Tätigkeit auf das gesamte Bundesgebiet. Unter Berücksichtigung der technischen Möglichkeiten elektronischer Netzwerke erstreckt der Verein seine Tätigkeit auf die gesamte Welt.
+  2. Der Verein hat seinen Sitz in Wien und erstreckt seine Tätigkeit auf das gesamte Bundesgebiet. Unter Berücksichtigung der technischen Möglichkeiten elektronischer Netzwerke erstreckt der Verein seine Tätigkeit auf die gesamte Welt.
   3. Er ist unpolitisch und überparteilich sowie gemeinnützig.
   4. Die Errichtung von Zweigvereinen ist nicht beabsichtigt.
   5. Das Geschäftsjahr ist das Kalenderjahr.
