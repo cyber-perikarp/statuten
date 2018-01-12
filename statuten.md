@@ -105,6 +105,7 @@ wirksam.
 
 ## Aufgaben der Generalversammlung
   Der Generalversammlung sind folgende Aufgaben vorbehalten:
+
 1. Beschlussfassung über den Voranschlag,
 2. Entgegennahme und Genehmigung des Rechenschaftsberichts und des Rechnungsabschlusses unter Einbindung der Rechnungsprüfer,
 3. Wahl und Enthebung der Mitglieder des Vorstands und der Rechnungsprüfer,
