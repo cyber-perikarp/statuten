@@ -1,11 +1,3 @@
----
-title: "Statuten des Vereins Cyber Perikarp – Verein z. Förderung d. Netzkultur"
-author:
-  - Sebastian E. Pfeifer
-  - Monika Weber
-date: "02.12.2017"
----
-
 > Jeder hat das Recht auf Meinungsfreiheit und freie Meinungsäusserung; dieses Recht schliesst die Freiheit ein, Meinungen ungehindert anzuhängen sowie über Medien jeder Art und ohne Rücksicht auf Grenzen Informationen und Gedankengut zu suchen, zu empfangen und zu verbreiten.  
 > &mdash; <cite>Artikel 19 der Allgemeinen Erklärung der Menschenrechte, 1948</cite>
 
