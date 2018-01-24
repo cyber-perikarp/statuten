@@ -2,18 +2,17 @@ sudo: required
 dist: trusty
 before_install:
   - sudo apt-get -y install libssl-dev
-  - wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz -O /tmp/wkhtmltopdf.tar.xz
-  - tar vxf /tmp/wkhtmltopdf.tar.xz -C /tmp
+  - wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz -O ./wkhtmltopdf.tar.xz
+  - tar vxf ./wkhtmltopdf.tar.xz -C ./wk
   - wget https://github.com/jgm/pandoc/releases/download/2.1/pandoc-2.1-1-amd64.deb
   - sudo dpkg -i pandoc-2.1-1-amd64.deb
-  - mkdir /tmp/build
+  - rm *.deb *.xz
 script:
-  - pandoc --standalone --self-contained -f gfm -t html5 --template template.html5 statuten.md -o /tmp/build/statuten.html
-  - /tmp/wkhtmltox/bin/wkhtmltopdf --enable-javascript --page-size A4 /tmp/build/statuten.html /tmp/build/statuten.pdf
+  - pandoc --standalone --self-contained -f gfm -t html5 --template template.html5 ./statuten.md -o ./statuten.html
+  - ./wk/wkhtmltox/bin/wkhtmltopdf --enable-javascript --page-size A4 ./statuten.html ./statuten.pdf
 
 deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   target_branch: gh-pages
-  local_dir: /tmp/build
